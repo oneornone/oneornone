@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @oneornone
+- 👀 I’m interested in full stack programming.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on nothing till now.
+- 📫 How to reach me? Not any time. :D
